@@ -5,15 +5,14 @@ Real-time American Sign Language (ASL) recognition using a dual-model pipeline �
 > 📦 Dataset available on Kaggle: [ASL Sign Language Dataset — RGB, HSV & Grayscale](https://www.kaggle.com/datasets/rudrakumargupta/asl-sign-language-dataset-rgb-hsv-and-grayscale)
 
 
-> 🤖 Pretrained models available on Kaggle: *(add link after uploading models)*
-> 📦 Models available on Kaggle: [ASL Sign Language CNN Models](https://www.kaggle.com/models/rudrakumargupta/asl-sign-language-cnn-models)
+> 🤖 Pretrained models available on Kaggle: [ASL Sign Language CNN Models](https://www.kaggle.com/models/rudrakumargupta/asl-sign-language-cnn-models)
 ---
 
 ## 🚀 Demo
 
-<img width="300" height="200" alt="Screenshot 2026-02-20 154352" src="https://github.com/user-attachments/assets/605556d0-1857-4712-aaf4-9f604f875f73" />
-<img width="300" height="200" alt="Screenshot 2025-11-07 173211" src="https://github.com/user-attachments/assets/cb598bc4-1890-49b4-ad84-c186b4aeff60" />
-<img width="300" height="200" alt="Screenshot 2025-11-07 172820" src="https://github.com/user-attachments/assets/f18ae3a6-49b7-477f-92eb-c3cdc10d5a5e" />
+<img width="200" height="150" alt="Screenshot 2026-02-20 154352" src="https://github.com/user-attachments/assets/605556d0-1857-4712-aaf4-9f604f875f73" />
+<img width="200" height="150" alt="Screenshot 2025-11-07 173211" src="https://github.com/user-attachments/assets/cb598bc4-1890-49b4-ad84-c186b4aeff60" />
+<img width="200" height="150" alt="Screenshot 2025-11-07 172820" src="https://github.com/user-attachments/assets/f18ae3a6-49b7-477f-92eb-c3cdc10d5a5e" />
 
 ---
 
@@ -41,11 +40,11 @@ Real-time American Sign Language (ASL) recognition using a dual-model pipeline �
 Sign_language_Translator/
 ├── app.py                  # Main application — run this
 ├── run_app.bat             # Windows batch launcher
-├── datasets/               # ASL dataset (RGB, HSV, Grayscale splits) on Kaggle
+├── datasets/               # ASL dataset (RGB, HSV, Grayscale splits) ->[on Kaggle]
 │   ├── rgb/
 │   ├── hsv/
 │   └── grey/
-├── models/                 # Pretrained CNN weights on kaggle
+├── models/                 # Pretrained CNN weights ->[on kaggle]
 │   ├── rgb_best.pt
 │   ├── hsv_best.pt
 │   └── grey_best.pt
@@ -76,7 +75,7 @@ pip install torch torchvision opencv-python ultralytics numpy pillow
 ```
 
 ### 3. Download pretrained models
-Download from [Kaggle *(https://www.kaggle.com/models/rudrakumargupta/asl-sign-language-cnn-models)*] and place `.pt` files in the `models/` folder.
+Download from [ASL Sign Language CNN Models](https://www.kaggle.com/models/rudrakumargupta/asl-sign-language-cnn-models) and place `.pt` files in the `models/` folder.
 
 ### 4. Run the app
 ```bash

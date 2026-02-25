@@ -10,10 +10,9 @@ Real-time American Sign Language (ASL) recognition using a dual-model pipeline �
 
 ## 🚀 Demo
 
-<img width="200" height="150" alt="Screenshot 2026-02-20 154352" src="https://github.com/user-attachments/assets/605556d0-1857-4712-aaf4-9f604f875f73" />
-<img width="200" height="150" alt="Screenshot 2025-11-07 173211" src="https://github.com/user-attachments/assets/cb598bc4-1890-49b4-ad84-c186b4aeff60" />
-<img width="200" height="150" alt="Screenshot 2025-11-07 172820" src="https://github.com/user-attachments/assets/f18ae3a6-49b7-477f-92eb-c3cdc10d5a5e" />
-
+| Login Screen | Dashboard | Dashboard |
+| :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/605556d0-1857-4712-aaf4-9f604f875f73" width="280" /> | <img src="https://github.com/user-attachments/assets/cb598bc4-1890-49b4-ad84-c186b4aeff60" width="280" /> | <img src="https://github.com/user-attachments/assets/f18ae3a6-49b7-477f-92eb-c3cdc10d5a5e" width="280" /> |
 ---
 
 ## 🧠 How It Works

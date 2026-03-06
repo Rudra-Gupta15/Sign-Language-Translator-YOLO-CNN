@@ -111,13 +111,24 @@ The ASL dataset is available on Kaggle in three preprocessed versions (RGB, HSV,
 
 ## 👤 Author
 
-**Rudra Gupta**
-Electronics Engineering Student · AI/ML Intern · Game Enthusiast
-**Vedant Shrivastava**
-**Sail Gadpayle**
-**Khushi Pantawane**
-**Disha Manmode**
-**Tavish Anade**
+**Rudra Gupta**  
+Electronics Engineering Student · AI/ML Intern · Game Dev Enthusiast<br>
+
+**Vedant Shrivastava**<br>
+Electronics Engineering Student . AI/ML Intern<br>
+
+**Sail Gadpayle**<br>
+Electronics Engineering Student<br>
+
+**Khushi Pantawane**<br>
+Electronics Engineering Student . Java Intern . Research and Developer<br>
+
+**Disha Manmode**<br>
+Electronics Engineering Student . Java Intern . Electronics Engineer<br>
+
+**Tavish Anade**<br>
+Electronics Engineering Student<br>
+
 
 🔗 [Kaggle](https://www.kaggle.com/rudrakumargupta) · [GitHub](https://github.com/rudrakumargupta)
 
